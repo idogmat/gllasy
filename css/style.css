@@ -1092,20 +1092,20 @@ iframe{
 
     30% {
     opacity: 0.3;
-    -webkit-transform: translateX(-285px);
-            transform: translateX(-285px);
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
   }
 
     70% {
     opacity: 0.7;
-    -webkit-transform: translateX(-285px);
-            transform: translateX(-285px);
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
   }
 
     100% {
     opacity: 1;
-    -webkit-transform: translateX(-285px);
-            transform: translateX(-285px);
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
   }
 }
 @keyframes bounce {
@@ -1117,28 +1117,27 @@ iframe{
 
     30% {
     opacity: 0.3;
-    -webkit-transform: translateX(-285px);
-            transform: translateX(-285px);
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
   }
 
     70% {
     opacity: 0.7;
-    -webkit-transform: translateX(-285px);
-            transform: translateX(-285px);
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
   }
 
     100% {
     opacity: 1;
-    -webkit-transform: translateX(-285px);
-            transform: translateX(-285px);
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
   }
 }
 
 .write-us-form{
  display:none;
   position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 35.1%;
   padding: 54px 0px;
   margin: 0;
   font-size: 14px;
@@ -1157,11 +1156,10 @@ iframe{
     height: 600px;
   }
 .iframe-div{
-    display: none;
-    position: fixed;
-    left: 50%;
-    top: 58%;
-    transform: translate(-50%, -50%);
+  display: none;
+  position: fixed;
+  left: 18.5%;
+  top: 32%;
     
 }
 .iframe-map-close{
